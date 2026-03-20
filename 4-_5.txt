@@ -1,0 +1,12 @@
+bandit4@bandit:~/inhere$ strings ./"-file00"
+6);/:
+bandit4@bandit:~/inhere$ strings ./"-file01"
+bandit4@bandit:~/inhere$ strings ./"-file02"
+bandit4@bandit:~/inhere$ strings ./"-file03"
+bandit4@bandit:~/inhere$ strings ./"-file04"
+bandit4@bandit:~/inhere$ strings ./"-file05"
+bandit4@bandit:~/inhere$ strings ./"-file06"
+Y["#
+bandit4@bandit:~/inhere$ strings ./"-file07"
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+bandit4@bandit:~/inhere$ 
