@@ -1,4 +1,0 @@
-data.txt
-bandit7@bandit:~$ cat data.txt | grep "millionth"
-millionth	dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
-bandit7@bandit:~$ 
