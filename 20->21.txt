@@ -1,0 +1,22 @@
+  Enjoy your stay!
+
+bandit20@bandit:~$ ls
+suconnect
+bandit20@bandit:~$ nc -lvnp 4444
+Listening on 0.0.0.0 4444
+Connection received on 127.0.0.1 36284
+0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+EeoULMCra2q0dSkYj561DX7s1CpBuOBt
+bandit20@bandit:~$ 
+
+
+  For support, questions or comments, contact us on discord or IRC.
+
+  Enjoy your stay!
+
+bandit20@bandit:~$ ls
+suconnect
+bandit20@bandit:~$ ./suconnect 4444
+Read: 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+Password matches, sending next password
+bandit20@bandit:~$ 
